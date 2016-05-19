@@ -1,11 +1,12 @@
-# Dracula Theme for ConEmu
+# Dracula for [ConEmu](http://conemu.github.io)
 
-## Screenshot
-![dracula-theme](screenshot.png)
+> A dark theme for [ConEmu](http://conemu.github.io).
+
+![Screenshot](./screenshot.png)
 
 ## Install
 
-You have to manually modify ConEmu config file.
+You have to manually modify the ConEmu config file.
 
 1. Open `ConEmu.xml` file. It is in the installation directory of ConEmu or the
 user directory like `C:\Users\UserName`.
@@ -41,3 +42,7 @@ I also provide a theme generating script. Please read `gen_theme.py` if you want
 to make some modifications. It will be really easy to change colors in the palette,
 and run `python gen_theme.py > themeName.xml` to generate a theme. And follow the
 [install](#install) step for installation.
+
+## License
+
+[MIT License](./LICENSE)
