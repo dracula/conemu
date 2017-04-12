@@ -5,7 +5,7 @@
 
     ConEmu theme generator
 
-    :copyright: (c) 2015 - 2016 by Radmon.
+    :copyright: (c) 2015 - present by Radmon.
 """
 
 import re
