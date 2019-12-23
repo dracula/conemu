@@ -2,7 +2,7 @@
 
 > A dark theme for [ConEmu](http://conemu.github.io).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/conemu.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
